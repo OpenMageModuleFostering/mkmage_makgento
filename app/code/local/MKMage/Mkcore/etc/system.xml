@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <tabs>
+        <mkmage translate="label" module="mkcore">
+            <label>MKMage Extensions</label>
+            <sort_order>100</sort_order>
+        </mkmage>
+    </tabs>
+</config>
