@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/MKMage_Makgento",
+    "name": "openmage-module-fostering\/mkmage_makgento",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Robust responsive mobile theme for your store.",
     "authors": [
